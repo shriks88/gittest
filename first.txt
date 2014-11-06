@@ -1,3 +1,0 @@
-first line
-second line added from github
-third line from local repo
